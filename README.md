@@ -7,7 +7,7 @@
 <p align="center"><b>A free hi‑fi music player for Android.<br>Your phone + a small USB DAC + wired headphones = a sound system that normally costs a fortune — in your pocket.</b></p>
 
 <p align="center">
-  <a href="https://github.com/89002521040g-sudo/shikardos-audio/releases/latest"><b>⬇ Download the latest APK</b></a> ·
+  <a href="https://github.com/volchebnoeremeslo-web/shikardos-audio/releases/latest"><b>⬇ Download the latest APK</b></a> ·
   <a href="https://shikardos.net">shikardos.net</a>
 </p>
 
@@ -59,7 +59,7 @@ Swipe on the cover to change songs or volume · sleep timer · alarm that wakes 
 
 ## Install
 
-1. Open **[Releases](https://github.com/89002521040g-sudo/shikardos-audio/releases/latest)** and download the `.apk` file.
+1. Open **[Releases](https://github.com/volchebnoeremeslo-web/shikardos-audio/releases/latest)** and download the `.apk` file.
 2. Open it on your phone. Android will ask whether apps may be installed from this source — allow it (this is the normal question for any app not from a store).
 3. On first launch, grant access to music so the player can find your library.
 
@@ -72,7 +72,7 @@ You can also track releases automatically with [Obtainium](https://github.com/Im
 
 ## Something not working?
 
-Open an [issue](https://github.com/89002521040g-sudo/shikardos-audio/issues) — English is fine. It helps a lot to attach the player log: open **Settings** and tap the item with the 🐞 bug icon — the player collects a log file and offers to share it. The log contains only what the player did in the last minutes; it leaves your phone only when you share it yourself.
+Open an [issue](https://github.com/volchebnoeremeslo-web/shikardos-audio/issues) — English is fine. It helps a lot to attach the player log: open **Settings** and tap the item with the 🐞 bug icon — the player collects a log file and offers to share it. The log contains only what the player did in the last minutes; it leaves your phone only when you share it yourself.
 
 ---
 
